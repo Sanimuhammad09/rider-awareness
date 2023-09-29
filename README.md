@@ -48,7 +48,7 @@
 
 
 
-## Server - <a href="https://github.com/Saifurrahmanemon/Rider-s-Warehouse-server.git">Server Side Code</a>
+## Server - <a href="https://github.com/Sanimuhammad09/rider-awareness">Server Side Code</a>
 
 ### Plans
 ----
@@ -57,7 +57,4 @@
 
 ---
 
-### Contributing Guide
 
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
